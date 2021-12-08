@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>유효성 검사</title>
 </head>
-<body>
+<body> 
     <h1>수강신청</h1>
     <form action="joinPro.jsp">
         <input type="checkbox" name='subject'><span>Java</span><br>

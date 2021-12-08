@@ -38,27 +38,27 @@
 
         header {
             grid-area: header;
-            background-color: rgb(231, 231, 231);
+            background-color: rgb(235, 235, 235);
         }
 
         main {
             grid-area: main;
-            background-color: rgb(231, 231, 231);
+            background-color: rgb(235, 235, 235);
         }
 
         footer {
             grid-area: footer;
-            background-color: rgb(231, 231, 231);
+            background-color: rgb(235, 235, 235);
         }
 
         .aside1 {
             grid-area: aside1;
-            background-color: rgb(231, 231, 231);
+            background-color: rgb(235, 235, 235);
         }
 
         .aside2 {
             grid-area: aside2;
-            background-color: rgb(231, 231, 231);
+            background-color: rgb(235, 235, 235);
     
         }
 

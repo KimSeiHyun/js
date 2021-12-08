@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+ 
 <%request.setCharacterEncoding("UTF-8"); 
 // 폼 안의 인풋태그 자체가 리퀘스트 처리를 위한 요소.
 String inputAnswer[] = request.getParameterValues("inputAnswer");

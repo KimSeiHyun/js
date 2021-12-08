@@ -13,7 +13,7 @@
         }
     </style>
     <title>login</title>
-</head>
+</head> 
 <body>
     <h1>login</h1>
     <form method='post' action="loginPro.jsp">

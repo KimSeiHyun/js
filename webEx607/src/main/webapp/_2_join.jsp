@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	여기는 _2_join.jsp이다
+	여기는 _2_join.jsp이다 
 </body>
 </html>

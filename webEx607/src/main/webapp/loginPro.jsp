@@ -6,7 +6,7 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-<body>
+<body> 
 	loginpro 페이지 입니다.
 	<% 
 	// URI 쿼리 구간에 파라미터명1 = 값1&파라미터명2 = 값2...(요청과 함꼐 전달된 값이 받아짐)

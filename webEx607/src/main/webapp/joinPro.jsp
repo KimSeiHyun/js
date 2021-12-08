@@ -9,4 +9,4 @@
 <body>
 	가입에 성공했습니다.
 </body>
-</html>
+</html> 
