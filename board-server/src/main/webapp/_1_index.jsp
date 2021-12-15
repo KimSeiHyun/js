@@ -17,7 +17,7 @@
     <title>GREEM</title>
 </head>
 <body>
-	<%
+	<%  
 	session.removeAttribute("log"); 
 	session.removeAttribute("pw"); 
 	UserDAO dao = UserDAO.getInstance();
